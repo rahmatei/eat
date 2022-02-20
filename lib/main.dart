@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:eat/category_meals_screen.dart';
-import 'package:eat/category_screen.dart';
+import 'package:eat/screens/category_meals_screen.dart';
+import 'package:eat/screens/category_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
