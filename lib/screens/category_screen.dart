@@ -1,4 +1,4 @@
-import 'package:eat/category_item.dart';
+import 'package:eat/widget/category_item.dart';
 import 'package:eat/dummy_category.dart';
 import 'package:flutter/material.dart';
 
