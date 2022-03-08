@@ -73,7 +73,7 @@ class MealDetailScreen extends StatelessWidget {
                     color: Colors.grey,
                   ),
                 ]),
-                itemCount: selectedMeal.ingredients.length,
+                itemCount: selectedMeal.steps.length,
               ),
             ),
           ]),
